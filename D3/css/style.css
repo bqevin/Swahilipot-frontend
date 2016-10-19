@@ -1,0 +1,32 @@
+/*
+Style for FrontENd
+Date: 19th OCT
+Author: Kevin
+*/
+
+body{
+  background: -webkit-linear-gradient(top, #FFFA2D, #4D00B2);
+}
+
+/* Style for Div ONE*/
+div.first{
+  padding: 10px;
+  background: red;
+  color: #fff !important;
+  text-align: center;
+}
+
+p{text-align: left;}
+
+/* Style for Div TWO*/
+div.second{
+  width: 50%;
+  background: #fff;
+  padding: 5px;
+  position: relative;
+  float: right;
+}
+
+div.third{
+  clear: both;
+}
